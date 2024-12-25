@@ -15,6 +15,10 @@ o 2022 UCPC 20위 팀명 민규솔로기투
 
 o 2024 UCPC 11등(5등상) 팀명 경기과학고등학교36기화이팅시즌2
 
+o 2024 ICPC 서울 리저널 예선 5위 팀명 CS202
+
+o 2024 ICPC 서울 리저널 본선 39위 팀명 CS202
+
 <!--
 **gs18050/gs18050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
