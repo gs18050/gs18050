@@ -11,6 +11,8 @@ o 2017 KOI 중등부 전국대회 동상
 
 o 2019 KOI 고등부 전국대회 동상
 
+o 2019 Google Code Jam Round 2
+
 o 2021 UCPC 19위 팀명 PS못함
 
 o 2022 UCPC 20위 팀명 민규솔로기투
