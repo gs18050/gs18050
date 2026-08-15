@@ -23,7 +23,13 @@ o 2024 ICPC 서울 리저널 예선 5위 팀명 CS202
 
 o 2024 ICPC 서울 리저널 본선 39위 팀명 CS202
 
+o 2024 SCPC 본선 진출
+
 o 2025 UCPC 13위(5등상) 팀명 뚝심햄구이
+
+o 2025 SCPC 본선 진출
+
+o 2026 SCPC 본선 진출
 
 <!--
 **gs18050/gs18050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
